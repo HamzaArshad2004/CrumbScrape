@@ -19,4 +19,4 @@ This tool automates the scraping of dessert recipes from Preppy Kitchen, allowin
 - pip install -r requirements.txt
   
 ## Usage 
-- python main.py# CrumbScrape
+- python main.py
